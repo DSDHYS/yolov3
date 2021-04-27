@@ -1,0 +1,31 @@
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/03aba2e9709020cdb625f017325b921a.jpg 11,115,747,648,5
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/09120b26ba56744e10386ef6a92333f9.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/0a528ff8c49994e0fb5fc5aa3d7ce4cd.jpg 1,350,764,1652,1 395,142,1080,1421,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/0caed5e98dab9b0d2fbd434e7c45c995.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/0d0bfa47d6723422a30dcfae1c434845.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/0ea07bcf7153d7f6f0fc5098ed1a3e11.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/129befd8cdf8eee84726e0240c759f3e.jpg 108,105,562,880,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/18089e06c1f8a758498ec90330228483.jpg 285,100,715,306,0 37,17,445,412,0 263,210,457,531,0 370,211,537,519,0 447,218,616,530,0 537,256,718,520,0
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/1a522e5de745d9400f0ab6df5954ee5c.jpg 40,5,114,187,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/1b8987e492952eca0931b60cfa216455.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2004762bbf0477ae7817261995b5b2cf.jpg 174,8,333,495,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/20344a5cbe8648cbf8f9af9d410db36e.jpg 412,15,617,642,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/21248f648df2910aa6d667d6f828461a.jpg 132,17,256,338,1 262,22,395,340,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/23dbdac2788552e182a791827e18ccec.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/25e7ff090d0a8a96fe0c6e3177d97952.jpg 13,60,577,475,5
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/27391951c0ef40be4376a95f38e464cb.jpg 65,1,203,378,1 203,1,332,381,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2767308101970e6f8119dfa035629276.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/27de54204d054295c629aaf2a3a84aac.jpg 89,55,310,255,5 7,143,131,257,5
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2d977382cc44c02857d54d9432a1c3f6.jpg 81,89,333,715,1 282,44,507,714,1 467,102,687,731,1 671,252,874,726,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2DEC8CC3F5BE102B58ED730CD0964633.jpg 52,386,1857,1015,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2eb126803a511b7075617b43a0548e43.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/30ed58210d35182b3778d9da2856938e.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/3acb991af6da9dafe66afb6e46481c98.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/419d3e62b20967f74d107a03064e4499.jpg 14,25,157,276,5 168,38,307,280,5
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/472411564f0b1edd9c68f92bbc28555f.jpg 7,64,261,267,5
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4798c4335ba5cb5d42dc75c699bd14b4.jpg
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/567e56d6cb3fdbfe75f8f4d4a0215aa7.jpg 41,16,121,200,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/5d18eddc3d6225d519d37ff1b87211d1.jpg 199,670,654,1899,0 626,715,983,1917,0
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/5da6014ce090cca8974c03bbba4f27f0.jpg 50,113,238,583,1 219,117,395,591,1 387,147,560,592,1 559,149,730,597,1
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/609c8a8a05649ffc5bccb784732709fb.jpg 98,154,664,525,5
+E:\document\syn\data\graduation-project\yolo3-pytorch-master/VOCdevkit/VOC2007/JPEGImages/759dd36a8426adecce7d56dfcfa96324.jpg 26,316,1899,1493,5
